@@ -19,3 +19,6 @@ A curated list of javascript resources, docs and tutorials.
 
 ## react
 * https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf (react router v4 tutorial)
+* http://blog.tomduncalf.com/posts/setting-up-typescript-and-react/ (react and typescript)
+* https://javascriptplayground.com/blog/2017/04/react-typescript/ (react and typescript)
+* https://www.typescriptlang.org/docs/handbook/react-&-webpack.html (react, typescript and webpack)
