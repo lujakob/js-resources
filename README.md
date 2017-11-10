@@ -23,4 +23,5 @@ A curated list of javascript resources, docs and tutorials.
 * https://javascriptplayground.com/blog/2017/04/react-typescript/ (react and typescript)
 * https://www.typescriptlang.org/docs/handbook/react-&-webpack.html (react, typescript and webpack)
 * https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce (HOC alternative -> render prop)
+* http://americanexpress.io/faccs-are-an-antipattern/ (render prop and component injection)
 * http://reactpatterns.com/ (React patterns)
