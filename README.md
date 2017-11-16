@@ -25,3 +25,4 @@ A curated list of javascript resources, docs and tutorials.
 * https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce (HOC alternative -> render prop)
 * http://americanexpress.io/faccs-are-an-antipattern/ (render prop and component injection)
 * http://reactpatterns.com/ (React patterns)
+* https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076 (How to use context to pass data down the tree)
