@@ -7,6 +7,8 @@ A curated list of javascript resources, docs and tutorials.
 * https://launchpad.graphql.com (graphql server playground)
 * https://dev-blog.apollodata.com/a-guide-to-authentication-in-graphql-e002a4039d1 (Authentication in graphql)
 * https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302 (Authorization in graphql)
+* https://zach.codes/handling-auth-in-graphql-the-right-way/ (Resolver based authentication)
+* https://scaphold.io/community/blog/authentication-in-graphql/ (Resolver based authentication)
 * https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035 (How to build a graphql server)
 * https://dev-blog.apollodata.com/getting-started-with-typescript-and-apollo-a9aa2c7dcf87 (Apollo and typescript)
 * https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b (Fullstack tutorial)
