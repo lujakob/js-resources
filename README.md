@@ -13,6 +13,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://dev-blog.apollodata.com/getting-started-with-typescript-and-apollo-a9aa2c7dcf87 (Apollo and typescript)
 * https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b (Fullstack tutorial)
 * https://medium.com/@brettjurgens/gql2ts-1-0-0-and-beyond-d812f95a1ec4 (generate TS Interfaces from a GraphQL Schema)
+* https://medium.com/graphql-mastery/graphql-quick-tip-how-to-pass-variables-into-a-mutation-in-graphiql-23ecff4add57 (How to pass variables in Graphiql)
 
 ## graphql examples
 * https://github.com/apollographql/GitHunt-API
