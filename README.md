@@ -29,3 +29,4 @@ A curated list of javascript resources, docs and tutorials.
 * http://americanexpress.io/faccs-are-an-antipattern/ (render prop and component injection)
 * http://reactpatterns.com/ (React patterns)
 * https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076 (How to use context to pass data down the tree)
+* https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2 (Performance)
