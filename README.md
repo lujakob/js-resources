@@ -23,6 +23,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://github.com/apollographql/apollo-server-tutorial (full code for the GraphQL server tutorial (SQL, MongoDB + REST))
 
 ## react
+* https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 * https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf (react router v4 tutorial)
 * http://blog.tomduncalf.com/posts/setting-up-typescript-and-react/ (react and typescript)
 * https://javascriptplayground.com/blog/2017/04/react-typescript/ (react and typescript)
