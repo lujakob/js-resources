@@ -35,3 +35,4 @@ A curated list of javascript resources, docs and tutorials.
 * https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2 (Performance)
 * https://css-tricks.com/server-side-react-rendering/ (Server Side Rendering)
 * https://medium.com/@mattvagni/server-side-rendering-with-css-modules-6b02f1238eb1
+* https://www.robinwieruch.de/react-fetching-data/
