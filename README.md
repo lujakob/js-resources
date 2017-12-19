@@ -36,3 +36,4 @@ A curated list of javascript resources, docs and tutorials.
 * https://css-tricks.com/server-side-react-rendering/ (Server Side Rendering)
 * https://medium.com/@mattvagni/server-side-rendering-with-css-modules-6b02f1238eb1
 * https://www.robinwieruch.de/react-fetching-data/
+* https://medium.com/netscape/webpack-3-react-production-build-tips-d20507dba99a
