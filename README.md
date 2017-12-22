@@ -16,6 +16,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://medium.com/graphql-mastery/graphql-quick-tip-how-to-pass-variables-into-a-mutation-in-graphiql-23ecff4add57 (How to pass variables in Graphiql)
 * https://dev-blog.apollodata.com/persisted-graphql-queries-with-apollo-client-119fd7e6bba5 (Persisted queries)
 * https://medium.com/@tomlagier/scaffolding-a-rock-solid-graphql-api-b651c2a36438 (postgres, sequelize, winston, docker, auth)
+* https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2 (handling local state)
 
 ## graphql examples
 * https://github.com/apollographql/GitHunt-API
