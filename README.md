@@ -17,6 +17,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://dev-blog.apollodata.com/persisted-graphql-queries-with-apollo-client-119fd7e6bba5 (Persisted queries)
 * https://medium.com/@tomlagier/scaffolding-a-rock-solid-graphql-api-b651c2a36438 (postgres, sequelize, winston, docker, auth)
 * https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2 (handling local state)
+* https://dev-blog.apollodata.com/a-guide-to-authentication-in-graphql-e002a4039d1
 
 ## graphql examples
 * https://github.com/apollographql/GitHunt-API
