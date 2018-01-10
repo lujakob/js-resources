@@ -46,3 +46,8 @@ A curated list of javascript resources, docs and tutorials.
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
 * https://angularfirebase.com/lessons/hnpwa-angular-5-progressive-web-app-service-worker-tutorial/
+
+## CSS
+* http://mrmrs.github.io/writing/2016/03/24/scalable-css/
+* https://css-tricks.com/lets-define-exactly-atomic-css/
+* https://acss.io/
