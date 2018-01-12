@@ -42,6 +42,9 @@ A curated list of javascript resources, docs and tutorials.
 
 ## angular
 * https://angularfirebase.com/lessons/hnpwa-angular-5-progressive-web-app-service-worker-tutorial/
+* https://angularfirebase.com/lessons/
+* https://toddmotto.com/resources/angular
+* https://blog.thoughtram.io/
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
