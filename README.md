@@ -46,6 +46,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://toddmotto.com/resources/angular
 * https://blog.thoughtram.io/
 * https://angular-2-training-book.rangle.io/
+* https://blog.angularindepth.com/
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
