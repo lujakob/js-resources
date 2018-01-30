@@ -49,6 +49,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://blog.angularindepth.com/
 * https://gist.github.com/btroncone/a6e4347326749f938510 (ngrx tutorial)
 * https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e
+* https://netbasal.com/lets-talk-about-select-and-reselect-in-ngrx-store-177a2f6045a8
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
