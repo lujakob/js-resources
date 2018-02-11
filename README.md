@@ -52,6 +52,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://netbasal.com/lets-talk-about-select-and-reselect-in-ngrx-store-177a2f6045a8
 * https://medium.com/@viestursv/how-to-get-store-state-in-ngrx-effect-fab9e9c8f087
 * https://toddmotto.com/ngrx-store-understanding-state-selectors
+* https://angularfirebase.com/lessons/multi-property-data-filtering-with-firebase-and-angular-4/
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
