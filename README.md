@@ -54,6 +54,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://toddmotto.com/ngrx-store-understanding-state-selectors
 * https://angularfirebase.com/lessons/multi-property-data-filtering-with-firebase-and-angular-4/
 * https://angularfirebase.com/lessons/angular-file-uploads-to-firebase-storage/
+* https://thinkster.io/tutorials/angularfire-realtime-slack-clone
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
