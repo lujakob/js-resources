@@ -59,6 +59,8 @@ A curated list of javascript resources, docs and tutorials.
 
 ## general
 * http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript
+* http://krasimirtsonev.com/blog/article/getting-from-redux-to-state-machine-with-stent
+* http://krasimirtsonev.com/blog/article/getting-from-redux-to-state-machine-with-stent
 
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
