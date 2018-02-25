@@ -57,6 +57,9 @@ A curated list of javascript resources, docs and tutorials.
 * https://thinkster.io/tutorials/angularfire-realtime-slack-clone
 * https://github.com/ng-book/angular2-rxjs-chat 
 
+## general
+* http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript
+
 ## pwa
 * https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
 * https://angularfirebase.com/lessons/hnpwa-angular-5-progressive-web-app-service-worker-tutorial/
