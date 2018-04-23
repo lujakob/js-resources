@@ -56,6 +56,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://angularfirebase.com/lessons/angular-file-uploads-to-firebase-storage/
 * https://thinkster.io/tutorials/angularfire-realtime-slack-clone
 * https://github.com/ng-book/angular2-rxjs-chat 
+* https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358
 
 ## general
 * http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript
