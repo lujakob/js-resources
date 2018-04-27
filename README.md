@@ -57,6 +57,7 @@ A curated list of javascript resources, docs and tutorials.
 * https://thinkster.io/tutorials/angularfire-realtime-slack-clone
 * https://github.com/ng-book/angular2-rxjs-chat 
 * https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358
+* https://blog.hackages.io/our-solution-to-get-a-previous-route-with-angular-5-601c16621cf0
 
 ## general
 * http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript
